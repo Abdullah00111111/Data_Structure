@@ -1,6 +1,6 @@
 package Lab_Four;
 
-public class Q_Sex_Revers {
+public class Q_Six_Revers {
     private void revers(){
         if(head != null){
             Node pre = null;
